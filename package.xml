@@ -347,6 +347,10 @@
         <name>BusinessProcess</name>
     </types>
     <types>
+        <members>ACCObj1234__c.AutorabitExtId__c</members>
+        <members>ACCObj1234__c.TestFeidl1234__c</members>
+        <members>ACCObj1234__c.TestField3456__c</members>
+        <members>ACCObj123__c.Pfield1__c</members>
         <members>ACCObjTest1__c.ACCField1__c</members>
         <members>ACCObjTest1__c.ACCField2__c</members>
         <members>ACCObjTest1__c.AutorabitExtId__c</members>
