@@ -192,6 +192,7 @@
         <members>NewSep62</members>
         <members>RClass1</members>
         <members>RGvc02</members>
+        <members>RaghuApexClass</members>
         <members>S10</members>
         <members>S200</members>
         <members>SA100</members>
@@ -2301,6 +2302,10 @@
         <name>HomePageLayout</name>
     </types>
     <types>
+        <members>BigHack__b.BHIndex</members>
+        <name>Index</name>
+    </types>
+    <types>
         <members>sf_com_apps</members>
         <name>InstalledPackage</name>
     </types>
@@ -2642,6 +2647,10 @@
     <types>
         <members>Catch up</members>
         <name>ManagedTopics</name>
+    </types>
+    <types>
+        <members>Default_Navigation</members>
+        <name>NavigationMenu</name>
     </types>
     <types>
         <members>Catch up</members>
